@@ -20,18 +20,18 @@ Number 42 is searching with Sequential Search algorithm...
 Binary Search result: Not Found
 ```
 
-### NumberController Class ### 
+## NumberController Class ##
 
-## Constructor
+### Constructor
 The NumberController class initializes an array of 20 integers by reading them from a file specified in the constructor. It uses the Bubble Sort algorithm to ensure the numbers are sorted in ascending order.
 
-## Bubble Sort
+### Bubble Sort
 The bubbleSort method is a static method that implements the Bubble Sort algorithm to sort an array of integers.
 
-## Binary Search
+### Binary Search
 The searchBinary method searches for a specified number in the sorted array using the Binary Search algorithm. It returns true if the number is found and false otherwise.
 
-## Sequential Search
+### Sequential Search
 The searchSequential method searches for a specified number in the array using the Sequential Search algorithm. It returns true if the number is found and false otherwise.
 
 
